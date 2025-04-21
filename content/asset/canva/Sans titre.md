@@ -1,0 +1,1 @@
+![[asset/diagramme-journee-tres-produtive]]

@@ -1,0 +1,57 @@
+# 📋 Listes des projets
+
+- ## Wiki
+	- ### Obsidian
+		- Gestion du contenue
+	- ### GitHub
+		- Git
+		- Quartz
+- ## Introspection
+	- ### Toujours en apprendre plus sur moi-même
+		- #### Trouble du spectre de l'autisme
+			- Communication
+			- Structure de pensée
+		- #### Trouble de la personnalité limite
+			- Tempête
+			- High et down
+		- #### Dépendance
+			- Consommation
+			- Lien avec mes blessures
+			- Lien avec mon trouble de la personnalité limite
+			- Lien avec mon trouble du spectre de l'autisme
+	- ### Guide mécanique de l'esprit
+		- Mon esprit, mon garage
+		- Projet avec autisme Côte-Nord
+		- #### Français écrit
+			- Antidote
+			- Tap'Touche
+- ## Gestion de la productivité / relaxation
+	- ### Routine
+		- Gestion de LifeUp 
+		- La base (manger, boire de l'eau dormir, etc.)
+		- Ménage
+		- Podomoro
+		- Canva
+		- Productivité
+		- Relaxation
+	- ### Budget
+		- Budget express
+		- Allowance
+	- ### Épicerie
+		- Listes
+		- Temps
+	- ### Gestions du temps
+		- #### Productivité
+			- ##### Gestion de tâche
+				- Todoist
+			- ##### Notes rapide
+				- Google Keep
+				- Enregistreur notes vocale
+		- #### Relaxation
+			- ##### Technique contre le stress
+				- Respiration
+				- Exercices physique
+			- ##### Détente
+				- Émissions
+				- Jeux vidéo
+---
