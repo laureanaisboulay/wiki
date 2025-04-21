@@ -1,7 +1,10 @@
 ---
 title: 💬 Démarche d’approche – Sujet sensible avec Michael
-tags: [communication, relation, TSA, réflexion]
-created: {{date}}
+tags:
+  - communication
+  - relation
+  - TSA
+  - réflexion
 ---
 
 ## 🧠 Démarche d’approche pour discuter d’un sujet sensible avec Michael
