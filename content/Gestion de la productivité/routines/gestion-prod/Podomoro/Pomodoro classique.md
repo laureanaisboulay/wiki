@@ -4,7 +4,7 @@ tags: []
 ---
 ---
 
-# 🕒 Technique Pomodoro Classique
+# Technique Pomodoro Classique
 
 La technique **Pomodoro** est une méthode de gestion du temps conçue pour favoriser la concentration et améliorer la productivité. Elle repose sur des périodes de travail focalisé, alternées avec de courtes pauses, afin de maintenir un bon niveau d’énergie mentale tout au long de la journée.
 

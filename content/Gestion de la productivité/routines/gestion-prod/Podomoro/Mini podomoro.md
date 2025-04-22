@@ -1,10 +1,10 @@
 ---
-title: Mini Pomodoro – Définition et variantes
-tags: []
+title: Mini Pomodoro
+tags:
 ---
 ---
 
-# ⏳ Mini Pomodoro
+# Mini Pomodoro
 
 Le **Mini Pomodoro** est une adaptation allégée de la technique Pomodoro classique. Il consiste à enchaîner **3 cycles de 25 minutes**, suivis d’une **pause longue de 10 à 15 minutes**.
 

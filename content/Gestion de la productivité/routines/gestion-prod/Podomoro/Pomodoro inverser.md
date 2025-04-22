@@ -4,7 +4,7 @@ tags:
 ---
 ---
 
-# 🌀 Technique Inversée du Pomodoro
+# Technique Inversée du Pomodoro
 
 Cette méthode est une **alternative détournée de la technique Pomodoro classique**. Elle repose sur l’idée originale d’utiliser les périodes de "travail" pour faire volontairement des activités **non productives**, et de réserver les pauses à des actions **productives et intentionnelles**.
 
