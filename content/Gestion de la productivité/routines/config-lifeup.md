@@ -53,9 +53,9 @@ Structurer mes routines personnelles en utilisant l'application **LifeUp**, des 
 - Associer des récompenses *LifeUp* à chaque cycle complété (XP, or, item)
 - Explorer les trois variantes selon mes besoins :
 
-  - 🕒 [[pomodoro-clasique|Pomodoro Classique]]
-  - 🔄 [[pomodoro-inverser|Pomodoro inversé]] 
-  - ⏳ [[mini-pomodoro|Mini Pomodoro]]
+  - 🕒 [[Pomodoro classique|Pomodoro classique]]
+  - 🔄 [[Pomodoro inverser|Pomodoro inversé]] 
+  - ⏳ [[Mini podomoro|Mini Pomodoro]]
 
 - L’objectif est de transformer certaines corvées ou tâches passives en **mini-défis motivants**, à la fois cadrés et gratifiants
 

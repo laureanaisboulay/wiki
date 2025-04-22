@@ -1,12 +1,7 @@
 ---
-title: 🌀 Technique Inversée du Pomodoro
+title: Technique Inversée du Pomodoro
 tags:
-  - gestion
-  - du
-  - temps
-  - expérimentation
-  - méthode
-  - inversée
+---
 ---
 
 # 🌀 Technique Inversée du Pomodoro

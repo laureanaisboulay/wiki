@@ -1,16 +1,7 @@
 ---
-title: 🕒 Technique Pomodoro
-tags:
-  - productivité
-  - gestion
-  - du
-  - temps
-  - méthode
+title: Technique Pomodoro
+tags: []
 ---
----
-title: 🕒 Technique Pomodoro Classique
-tags: [gestion du temps, productivité, méthode]
-created: {{date}}
 ---
 
 # 🕒 Technique Pomodoro Classique

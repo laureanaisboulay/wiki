@@ -1,12 +1,7 @@
 ---
-title: ⏳ Mini Pomodoro – Définition et variantes
-tags:
-  - gestion
-  - du
-  - temps
-  - méthode
-  - pomodoro
-  - mini-cycle
+title: Mini Pomodoro – Définition et variantes
+tags: []
+---
 ---
 
 # ⏳ Mini Pomodoro

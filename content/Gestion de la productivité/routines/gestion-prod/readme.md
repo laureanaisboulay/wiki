@@ -10,4 +10,4 @@ Voir Canva.
 
 J'ai même créé des variantes du pomodoro pour mettre plus de flexibilité. De plus, je ne gère pas que la production avec cette méthode, je gère aussi le temps où je lâche prise. Exemple:
 
-[[pomodoro-inverser|# 🌀 Technique Inversée du Pomodoro]]
+[[Pomodoro inverser|# 🌀 Technique Inversée du Pomodoro]]
