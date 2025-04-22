@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bienvenue dans mon carnet de notes personnel
 ---
 
 This is a blank Quartz installation.
